@@ -93,3 +93,4 @@ app.listen(PORT, () => {
 });
 
 // To run: bun run apps/backend/index.ts
+// Ensure you have a user with ID 1 before creating todos
