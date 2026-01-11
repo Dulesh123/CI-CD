@@ -92,5 +92,3 @@ app.listen(PORT, () => {
   console.log(`🚀 Server running on http://localhost:${PORT}`);
 });
 
-// To run: bun run apps/backend/index.ts
-// Ensure you have a user with ID 1 before creating todos
