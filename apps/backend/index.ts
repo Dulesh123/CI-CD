@@ -92,3 +92,4 @@ app.listen(PORT, () => {
   console.log(`🚀 Server running on http://localhost:${PORT}`);
 });
 
+// To run: bun run apps/backend/index.ts
