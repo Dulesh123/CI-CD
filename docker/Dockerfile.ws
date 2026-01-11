@@ -1,6 +1,6 @@
 FROM oven/bun:1.3.1-alpine
 
-WORKDIR ./app/apps/ws
+WORKDIR ./app
 
 COPY . .
 
